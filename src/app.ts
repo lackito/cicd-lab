@@ -8,6 +8,7 @@ app.get('/', (_request, response) => {
   response.type('html').send(`
     <h1>CI/CD Lab</h1>
     <h2>Hello, World!</h2>
+    <p>Preview deployment</p>
     <p>The application is running.</p>
     <p>Version ${version}</p>
   `);
