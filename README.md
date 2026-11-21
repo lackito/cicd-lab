@@ -10,6 +10,10 @@ The starter includes a home page, a health endpoint, and a passing health endpoi
 - Git
 - GitHub and Render accounts for the deployment sections
 
+## References
+
+- [Traversy Media – CI/CD Crash Course: Commands and Code](https://devstash.io/s/i8dg26f3)
+
 ## Get started
 
 Clone the starter into a new folder:
